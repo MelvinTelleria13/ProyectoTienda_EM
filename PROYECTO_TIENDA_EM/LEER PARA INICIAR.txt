@@ -1,0 +1,22 @@
+Nuestro proyecto trata de un sitema de tienda (Cajero) que tiene a disposición una interfaz de venta de prendas y productos de belleza y cuido personal. 
+
+Usuario y Contraseña del docente:
+
+Docente
+12345
+
+----------------------------------------------------------------------------
+¡IMPORTANTE!
+A LA HORA DE IMPRIMIR
+
+Nuestro programa imprime la tabla de detalles. 
+
+al apretar el botón "Reporte" debe hacer la siguiente configuración para mostrar la tabla en una sola página y de manera ordenada.
+
+en vista general apretar "propiedades" -> "Diseño" -> "Tamaño de página: Doble Carta y Orientación Vertical"
+
+En la vista "preparar página" seleccionar "Horizontal"
+
+Imprimir 
+
+Selecciona la ruta y le establece un nombre.
